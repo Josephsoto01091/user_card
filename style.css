@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+} 
+
+.usercard-container {
+    background-color: white;
+    height: 250px;
+    width: 350px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+
+
+}
+
+.banner {
+    background-color: teal;
+    height: 50px;
+}
+
+h1 {
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+p {
+
+margin-left: 15px;
+margin-bottom: 10px;
+margin-top: 10px;
+
+}
+
+li {
+    list-style: none;
+    margin-left: 60px;
+    
+}
+
+#user-circle {
+    width: 60px;
+    margin-left: 35px;
+    margin-top: 25px;
+
+
+
+}
+
+#map-marker {
+    margin-left: 30px;
+    height: 10px;
+}
+
+#gear {
+    height: 15px;
+    margin-left: 10px;
+    
+}
+
+#editprofile {
+    color: blue;
+    margin-left: 5px;
+}
